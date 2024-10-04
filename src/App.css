@@ -37,7 +37,7 @@
   font-size: 20px;
   color: #ccc;
   background-color: black;
-  border: 1px solid #c89666;
+  border: 1px solid #fff;
   border-radius: 10px;
 }
 
@@ -47,7 +47,7 @@
   font-size: 20px;
   border-radius: 10px;
   border: 0;
-  background-color: #f1af71;
+  background-color: #ccc;
   cursor: pointer;
 }
 
